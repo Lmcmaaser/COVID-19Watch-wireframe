@@ -5,7 +5,7 @@
     <meta class="viewport" content="width=device-width">
     <title>COVID-19 Watch</title>
     <meta name="description" type="Index page of the wireframe for the app COVID-19 Watch">
-    <link rel="stylesheet" type="text/css" href="graphs.css"/>
+    <link rel="stylesheet" type="text/css" href="graph.css"/>
   </head>
   <body>
     <nav>
@@ -18,22 +18,12 @@
         <h1>COVID-19 Watch</h1>
       </header>
       <div class='main_content'>
-        <h3>Data</h3>
-        <form class="form-group">
-          <fieldset>
-            <label>View all reported cases</label>
-            <button>Submit</button>
-            <label>View by State</label>
-            <input type="text"/>
-            <button>Submit</button>
-            <label>View by zip code</label>
-            <input type="text"/>
-            <button>Submit</button>
-          </fieldset>
-        </form>
+        <h3>
+          Header changes based on props
+        </h3>
         <div class='results_group'>
-          <h4>Results Section</h4>
-          <div>Displays graphs when options are selected</div>
+          <div>Section Displays graph</div>
+          <div class="canvas">Will use CanvasJS React Component (https://canvasjs.com/) to generate charts</div>
         </div>
       </div>
     </main>

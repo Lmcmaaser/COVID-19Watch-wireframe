@@ -54,62 +54,6 @@ h3 {
   font-size: 22px;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Roboto', sans-serif;
-  background-color: grey;
-  margin: 0px;
-}
-
-header {
-  background-color: lightgrey;
-  color: white;
-  text-align: right;
-}
-
-h1 {
-  margin-top: 15px;
-  margin-bottom: 0px;
-  color: black;
-}
-
-nav {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-nav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-}
-
-
-.main_content {
-  display: flex;
-  flex-direction: column;
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
-}
-
-h3 {
-  margin: 10px;
-  font-size: 22px;
-}
-
 .form_group {
   font-size: 18px;
   padding: 10px;
@@ -132,21 +76,6 @@ input[type=text] {
   padding: 5px;
   width: 50%;
   height: 35px;
-}
-
-.results_group {
-  display: flex;
-  flex-direction: column;
-  font-size: 18px;
-  padding: 10px;
-  margin-left: 2px;
-  margin-right: 2px;
-  background-color: lightgrey;
-}
-
-h4 {
-  color: black;
-  text-align: center;
 }
 
 footer {
