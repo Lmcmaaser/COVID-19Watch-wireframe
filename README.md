@@ -7,7 +7,9 @@ It contains:
   4. Page that displays the data the user selected (ex. a graph showing reported instances of COVID-19 by state)
 
   Coded and deployed wireframes:
-  1. https://lmcmaaser.github.io/find-a-pet-wireframe2/
-  2. https://lmcmaaser.github.io/find-a-pet-wireframe2/report-form
-  3. https://lmcmaaser.github.io/find-a-pet-wireframe2/select-form
-  4. https://lmcmaaser.github.io/find-a-pet-wireframe2/graph  
+  1. https://lmcmaaser.github.io/COVID-19Watch-wireframe/
+  2. https://lmcmaaser.github.io/COVID-19Watch-wireframe/report-form
+  3. https://lmcmaaser.github.io/COVID-19Watch-wireframe/select-form
+  4. https://lmcmaaser.github.io/COVID-19Watch-wireframe/graph
+
+  User flows for each wireframe  
